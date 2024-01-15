@@ -1,0 +1,387 @@
+passengers_2019,resta,airport,latitude,longitude,group
+76195486,-24.54938734822165,Paris Charles de Gaulle Airport,49.0097,2.54778,Negative
+71742574,-26.859427987626983,Amsterdam Airport Schiphol,52.3086,4.76389,Negative
+70634781,-30.778764642874734,Frankfurt Airport,50.0333,8.57056,Negative
+59816612,-15.93868439088459,Adolfo Suarez Madrid-Barajas Airport,40.4719,-3.56264,Negative
+52031566,24.02490442052042,Istanbul Ataturk Airport,41.2753,28.7519,Positive
+51754419,-18.797969696075615,Barcelona El Prat Airport,41.2971,2.07846,Negative
+47963043,-34.04752279791756,Munich Airport,48.3538,11.7861,Negative
+43657541,-32.38038303623193,Rome–Fiumicino International Airport,41.8003,12.2389,Negative
+36221258,-13.626001062690865,Antalya Airport,36.8987,30.8005,Negative
+35566701,-13.540963498413868,Sabiha Gokcen International Airport,40.8986,29.3092,Negative
+32676251,-14.943287098633192,Dublin Airport,53.4213,-6.27007,Negative
+31783420,-24.76201113662406,Vienna International Airport,48.1103,16.5697,Negative
+31510469,-28.526122540416647,Zurich Airport,47.4647,8.54917,Negative
+31242618,-9.5588756358382,Lisbon Portela Airport,38.7813,-9.13592,Negative
+30208810,-26.773775597251266,Copenhagen Airport,55.6179,12.656,Negative
+29625649,-2.2931143213098895,Palma de Mallorca Airport,39.5517,2.73881,Negative
+28945027,-25.882373507545875,Milan-Malpensa Airport,45.6306,8.72811,Negative
+28475439,-21.368962915725373,Oslo Airport,60.1939,11.1004,Negative
+26417507,-28.1625817303654,Brussels Airport (Zaventem Airport),50.9014,4.48444,Negative
+25797320,-28.330156000700846,Stockholm Arlanda Airport,59.6519,17.9186,Negative
+25572131,-4.732812451179763,Athens International Airport (Eleftherios Venizelos Airport),37.9364,23.9445,Negative
+25496594,-36.99867519559671,Dusseldorf Airport,51.2895,6.76678,Negative
+22008010,-41.024390665035135,Helsinki Airport (Helsinki-Vantaa Airport),60.3172,24.9633,Negative
+19611331,-5.53080767440007,Malaga Airport,36.6749,-4.49911,Negative
+18855111,-23.595284058523973,Warsaw Chopin Airport,52.1657,20.9671,Negative
+17857519,-21.395094133737167,Geneva Airport,46.2381,6.10895,Negative
+17796640,-39.744586618597666,Vaclav Havel Airport Prague,50.1008,14.26,Negative
+17340757,-36.02088420938025,Hamburg Airport,53.6304,9.98823,Negative
+16129263,-24.687767816793613,Budapest Ferenc Liszt International Airport,47.4298,19.2611,Negative
+15004224,-11.392191958744418,Alicante-Elche Airport,38.2822,-0.558156,Negative
+14702115,-14.312750240356575,Bucharest Henri Coandă International Airport,44.5711,26.085,Negative
+14501172,-16.327397537247336,Nice Cote d'Azur Airport,43.6584,7.21587,Negative
+13814943,-36.972696883367526,Ankara Esenboğa Airport,40.1281,32.995,Negative
+13814943,-36.972696883367526,Esenboga International Airport,40.1281,32.9951,Negative
+13164539,-5.625704021994238,Gran Canaria Airport,27.9319,-15.3866,Negative
+13071188,-3.3485250154767874,Francisco Sá Carneiro Airport,41.2356,-8.67806,Negative
+13071188,-3.3485250154767874,Francisco de Sa Carneiro Airport,41.2481,-8.68139,Negative
+12735648,-45.156657910143245,Stuttgart Airport,48.6899,9.22196,Negative
+12378799,-29.282493398592223,Cologne Bonn Airport,50.8659,7.14274,Negative
+11772115,-27.18455434728594,Lyon-Saint-Exupery Airport,45.7256,5.08111,Negative
+11558024,-19.353723439231484,Venice Marco Polo Airport,45.5053,12.3519,Negative
+11422145,73.70271520804542,Berlin Brandenburg Airport,52.3514,13.4939,Positive
+11422145,73.70271520804542,Berlin Schonefeld Airport,52.38,13.5225,Positive
+10867628,0.45692583515004376,Naples International Airport,40.886,14.2908,Positive
+10240389,-1.3315998054370786,Catania-Fontanarossa Airport,37.4668,15.0664,Negative
+10178929,-10.125230267349345,Marseille Provence Airport,43.4393,5.22142,Negative
+9671755,-27.103312687304427,Toulouse-Blagnac Airport,43.6291,1.36382,Negative
+9488471,-9.668206816461788,Bologna Guglielmo Marconi Airport,44.5354,11.2887,Negative
+9003516,-9.406491863845192,Faro Airport,37.0144,-7.96591,Negative
+8406388,-12.0660502465506,John Paul II International Airport Krakow-Balice,50.0777,19.7848,Negative
+8400600,-3.383496416922601,Valencia Airport,39.4893,-0.481625,Negative
+8370467,-28.377628153841357,Larnaca International Airport,34.8751,33.6249,Negative
+8196648,0.7398634173384047,Brussels South Charleroi Airport,50.4592,4.45382,Positive
+8138923,1.0988554628173777,Ibiza Airport,38.8729,1.37312,Positive
+7843587,0.9539767965855418,Heraklion International Airport (Nikos Kazantzakis Airport),35.3397,25.1803,Positive
+7786572,-31.03960253626371,Riga International Airport,56.9236,23.9711,Negative
+7722892,-25.888345971949366,Bordeaux-Merignac Airport,44.8283,-0.715556,Negative
+7522776,-8.999164670063285,Seville Airport,37.418,-5.89311,Negative
+7318357,-19.862641300499554,Malta International Airport (Luqa Airport),35.8575,14.4775,Negative
+7288449,1.2533393593067605,Lanzarote Airport,28.9455,-13.6052,Positive
+7261749,-20.12665268380937,Nantes Atlantique Airport,47.1532,-1.61073,Negative
+7222376,-15.589301913940787,Keflavík International Airport,63.985,-22.6056,Negative
+7085918,-16.060135045310997,Sofia Airport,42.6967,23.4114,Negative
+7081820,1.5268815078609737,Falcone-Borsellino Airport (Punta Raisi Airport),38.176,13.091,Positive
+6785139,-6.558848683866314,Eindhoven Airport,51.4501,5.37453,Negative
+6722238,-33.69238042449553,Goteborg Landvetter Airport,57.6628,12.2798,Negative
+6679059,-10.976426469656879,Thessaloniki Airport,40.5197,22.9709,Negative
+6344289,-7.353779123239815,Bergen Airport,60.2934,5.21814,Negative
+6312402,-37.24314452723385,Hannover Airport,52.4611,9.68508,Negative
+6159018,-8.905494349910976,Belgrade Nikola Tesla Airport,44.8184,20.3091,Negative
+5860179,-10.982190134465176,Bilbao Airport,43.3011,-2.91061,Negative
+5630136,0.532651431510713,Fuerteventura Airport,28.4527,-13.8638,Positive
+5602057,11.861071745610586,Bari Karol Wojtyla Airport,41.1389,16.7606,Positive
+5382937,-16.276950668380476,Pisa International Airport (Galileo Galilei Airport),43.6839,10.3927,Negative
+5362727,-14.959627816221113,Gdansk Lech Walesa Airport,54.3776,18.4662,Negative
+5297297,11.341897575310577,Rhodes International Airport,36.4054,28.0862,Positive
+5243029,-19.391271724798777,Adana Sakirpasa Airport,36.9822,35.2804,Negative
+5006534,-21.858395448827473,Vilnius Airport,54.6341,25.2858,Negative
+4926232,-7.516393868579474,Dalaman Airport,36.7131,28.7925,Negative
+4849873,-8.665216594331438,Katowice International Airport,50.4743,19.08,Negative
+4788991,-7.3297694650083915,Cagliari Elmas Airport,39.2515,9.05428,Negative
+4382748,-11.480605318854746,Trondheim Airport,63.4578,10.924,Negative
+4364168,-7.066386995184421,Luxembourg Findel Airport,49.6233,6.20444,Negative
+4360553,-10.06200360367137,Milas-Bodrum Airport,37.2506,27.6643,Negative
+4109497,-20.498786104479453,Nuremberg Airport,49.4987,11.0781,Negative
+4058668,-17.72150370515647,Stavanger Airport,58.8767,5.63778,Negative
+3985032,6.143187808780456,Turin Airport (Caselle Airport),45.2008,7.64963,Positive
+3774848,-15.565633371197993,Trabzon Airport,40.9951,39.7897,Negative
+3720836,-0.36741742984641085,Billund Airport,55.7403,9.15178,Negative
+3643776,-18.05160361119893,Verona Villafranca Airport,45.3957,10.8885,Negative
+3548073,-18.9106875760448,Copernicus Airport Wroclaw,51.1027,16.8858,Negative
+3477228,13.312184303128813,Menorca Airport (Mahon Airport),39.8626,4.21865,Positive
+3424428,-9.131656440141244,Zagreb Airport,45.7429,16.0688,Negative
+3307899,-12.130086196706731,Split Airport,43.5389,16.298,Negative
+3258323,-16.167427231738536,Tallinn Airport (Lennart Meri Tallinn Airport),59.4133,24.8328,Negative
+3250239,-18.957559736376307,Treviso-Sant'Angelo Airport,45.6484,12.1944,Negative
+3124078,20.338448655891433,Corfu International Airport (Ioannis Kapodistrias Int'l Airport),39.6019,19.9117,Positive
+3104275,0.6658237430640005,Warsaw Modlin Airport,52.4511,20.6518,Positive
+3062289,26.484404313244113,Madeira Airport,32.6979,-16.7745,Positive
+3041663,4.477550603074699,Paphos International Airport,34.718,32.4857,Positive
+3010106,-11.625238446752373,Lamezia Terme International Airport,38.9054,16.2423,Negative
+2935423,7.70894007439473,Olbia Costa Smeralda Airport,40.8987,9.51763,Positive
+2924070,-9.435512829720219,Cluj-Napoca International Airport,46.7852,23.6862,Negative
+2906081,-26.03723020796736,Dubrovnik Airport,42.5614,18.2682,Negative
+2886003,14.12198809218147,Santiago de Compostela Airport,42.8963,-8.41514,Positive
+2869990,-42.93269314527228,Burgas Airport,42.5696,27.5152,Negative
+2865236,15.471046713080527,Chania International Airport,35.5317,24.1497,Positive
+2861616,-22.273917954051136,Florence Airport,43.81,11.2051,Negative
+2728143,13.720358500269231,Brindisi - Salento Airport,40.6576,17.947,Positive
+2717583,-4.91444051570826,Dortmund Airport,51.5183,7.61224,Negative
+2624509,-40.64329747011727,Leipzig/Halle Airport,51.4239,12.2364,Negative
+2585466,-13.421603687691116,Cork Airport,51.8413,-8.49111,Negative
+2580427,9.529856880276016,Kos Island International Airport,36.7933,27.0917,Positive
+2558456,-16.72985581929101,Pointe-a-Pitre International Airport (Le Raizet Airport),16.2653,-61.5318,Negative
+2526533,-7.940248554046198,Gaziantep Oguzeli International Airport,36.9472,37.4787,Negative
+2523823,-5.590407885180538,Roland Garros Airport,-20.8871,55.5103,Negative
+2468255,-2.539324340475356,Tromse Airport,69.6833,18.9189,Negative
+2379283,-6.606570130581356,Poznań–Ławica Henryk Wieniawski Airport,52.421,16.8263,Negative
+2353327,-9.277886158617141,Skopje Alexander the Great Airport,41.9616,21.6214,Negative
+2331364,1.1493700683376769,Erkilet International Airport,38.7704,35.4954,Positive
+2309292,-35.36278651638684,Bremen Airport,53.0475,8.78667,Negative
+2290237,-38.59657319308002,M. R. Stefanik Airport,48.1702,17.2127,Negative
+2232704,24.644198245714612,Santorini (Thira) National Airport,36.3992,25.4793,Positive
+2195977,-18.764996172546432,Lille Airport (Lille-Lesquin Airport),50.5633,3.08689,Negative
+2111570,0.6392873549065388,Rotterdam The Hague Airport,51.9569,4.43722,Positive
+2096504,-14.788094847422183,Martinique Aime Cesaire International Airport,14.591,-61.0032,Negative
+2088398,-28.661873838224324,Varna Airport,43.2321,27.8251,Negative
+2056285,-16.108078403528694,Sandefjord Airport,59.1867,10.2586,Negative
+2007233,-10.684310192189946,Bodo Airport,67.2692,14.3653,Negative
+1936987,-9.07486730680175,Montpellier-Mediterranee Airport (Frejorgues Airport),43.5762,3.96301,Negative
+1921240,-31.80159688534488,Girona-Costa Brava Airport,41.901,2.76055,Negative
+1890208,9.741150180297618,Joao Paulo II Airport,37.7412,-25.6979,Positive
+1785983,-6.140260013673142,Diyarbakir Airport,37.8939,40.201,Negative
+1731428,-28.121296409668783,Salzburg Airport,47.7933,13.0043,Negative
+1720491,-43.68985365224229,Ljubljana Joze Pucnik Airport (Brnik Airport),46.2237,14.4576,Negative
+1719233,15.649885733929025,Memmingen Airport,47.9888,10.2395,Positive
+1694087,12.50697278238957,Zakynthos International Airport (Dionysios SolomosAirport),37.7509,20.8843,Positive
+1619209,2.6818650340999834,Ajaccio Napoleon Bonaparte Airport,41.9236,8.80292,Positive
+1616085,-12.012239455226673,Shannon Airport,52.702,-8.92482,Negative
+1597319,-24.89039446722915,Timisoara Traian Vuia International Airport,45.8099,21.3379,Negative
+1596944,-47.548129427205964,Dresden Airport,51.1328,13.7672,Negative
+1595629,-13.750188797019858,Frankfurt-Hahn Airport,49.9487,7.26389,Negative
+1559969,-4.51714104575155,Bastia - Poretta Airport,42.5527,9.48373,Negative
+1545300,-20.24590694363554,Genoa Cristoforo Colombo Airport,44.4133,8.8375,Negative
+1493772,-19.239415386016073,Samsun-Carsamba Airport,41.2545,36.5671,Negative
+1482614,-11.232323450338388,La Palma Airport,28.6265,-17.7556,Negative
+1480689,15.557284480400678,Mykonos Island National Airport,37.4351,25.3481,Positive
+1443994,-7.209655995800536,Aalborg Airport,57.0928,9.84924,Negative
+1413983,-7.271445271972859,Van Ferit Melen Airport,38.4682,43.3323,Negative
+1409701,4.951333651604135,Asturias Airport (Oviedo Airport),43.5636,-6.03462,Positive
+1393293,10.237401608993943,Alghero-Fertilia Airport,40.6321,8.29077,Positive
+1361266,-52.55982298830647,Tivat Airport,42.4047,18.7233,Negative
+1348515,-26.911528607394057,A Coruna Airport,43.3021,-8.37726,Negative
+1337565,-2.4668707688972122,Karlsruhe/Baden-Baden Airport,48.7794,8.0805,Negative
+1312611,17.050291365834966,Iasi International Airport,47.1785,27.6206,Positive
+1291535,-2.227581908349367,Podgorica Airport,42.3594,19.2519,Negative
+1290237,-27.765829068612973,Strasbourg Airport,48.5383,7.62823,Negative
+1260889,-37.13554484177434,Brest Bretagne Airport,48.4479,-4.41854,Negative
+1255356,-26.009594091237865,Federico Garcia Lorca Airport (Granada Jaen Airport),37.1887,-3.77736,Negative
+1231537,-15.808619635463653,Weeze Airport (Niederrhein Airport),51.6024,6.14217,Negative
+1213980,-12.819733438771644,Hatay Airport,36.3628,36.2822,Negative
+1171426,-5.621780633177,Santander Airport,43.4271,-3.82001,Negative
+1163194,-21.58522138181593,Lulea Airport (Kallax Airport),65.5438,22.122,Negative
+1159565,-0.9494077520449479,Kaunas International Airport,54.9639,24.0848,Negative
+1155096,-19.453361452208302,Alesund Airport,62.5625,6.1197,Negative
+1151272,-36.878947807294885,Innsbruck Airport (Kranebitten Airport),47.2602,11.344,Negative
+1116586,-17.849408822965717,Jerez Airport (La Parra Airport),36.7446,-6.06011,Negative
+1085922,-34.65147588869183,Gazipasa-Alanya Airport,36.2992,32.3006,Negative
+1073443,-20.949225995232165,Region de Murcia International Airport,37.803,-1.125,Negative
+1066160,-12.620057027087867,Biarritz Pays Basque Airport,43.4683,-1.53111,Negative
+1064917,-40.227548250239224,Oulu Airport,64.9301,25.3546,Negative
+1063298,-30.43474171869034,Kristiansand Airport,58.2042,8.08537,Negative
+1060719,-23.275532916823398,Ordu-Giresun Airport,40.966,38.081,Negative
+1049248,-45.78660145170637,Graz Airport,46.9911,15.4396,Negative
+1013248,-4.3468134158666,Vigo-Peinador Airport,42.2318,-8.62677,Negative
+1010477,-20.225398499916373,Konya Airport,37.979,32.5619,Negative
+995932,-12.901784459179943,Erzurum Airport,39.9565,41.1702,Negative
+983321,-38.02379894256301,Umea Airport,63.7918,20.2828,Negative
+979042,-14.221657497839724,Munster Osnabruck International Airport,52.1346,7.68483,Negative
+966293,-26.958075863118125,Almeria Airport,36.8439,-2.3701,Negative
+905153,-24.509779009736476,Elazig Airport,38.6069,39.2914,Negative
+854848,-25.48464756307554,Rennes-Saint-Jacques Airport,48.0695,-1.73479,Negative
+807304,36.702902500173415,Zadar Airport,44.1083,15.3467,Positive
+805443,-11.90686367626263,Ireland West Airport Knock,53.9103,-8.81849,Negative
+782844,-10.872664285604795,Trieste - Friuli Venezia Giulia Airport,45.8275,13.4722,Negative
+779627,6.2676125890970935,Harstad/Narvik Airport,68.4913,16.6781,Positive
+773454,-48.5697921272629,Pula Airport,44.8935,13.9222,Negative
+772105,-11.535995751873127,Rzeszow-Jasionka Airport,50.11,22.019,Negative
+744590,-10.567292066775003,Malatya Erhac Airport,38.4353,38.091,Negative
+742447,12.150092868581865,Kefalonia International Airport,38.1201,20.5005,Positive
+737732,21.371988743879893,Figari-Sud Corse Airport,41.5006,9.09778,Positive
+731558,-14.878519543221453,Sibiu International Airport,45.7856,24.0913,Negative
+730707,-12.147002834241357,Sanliurfa GAP Airport,37.4457,38.8956,Negative
+700699,1.786501764666426,Abruzzo Airport,42.4317,14.1811,Positive
+691559,-27.819318380644315,Paderborn Lippstadt Airport,51.6141,8.61632,Negative
+665417,-15.07716214043224,Rovaniemi Airport,66.5648,25.8304,Negative
+649931,-39.5241956453839,Denizli Cardak Airport,37.7856,29.7013,Negative
+634634,6.786746376651739,Lajes Field,38.7618,-27.0908,Positive
+619770,-18.282588702260515,Haugesund Airport,59.3453,5.20836,Negative
+602253,-39.32616358905643,Pau Pyrenees Airport,43.38,-0.418611,Negative
+601231,-58.51045604767552,Debrecen International Airport,47.4889,21.6153,Negative
+593282,33.86483999177457,Aktion National Airport,38.9255,20.7653,Positive
+573760,-26.820970440602345,Solidarity Szczecin-Goleniow Airport,53.5847,14.9022,Negative
+568784,5.439323187712734,Mardin Airport,37.2233,40.6317,Positive
+559747,-12.53459152081208,Cayenne - Felix Eboue Airport,4.81981,-52.3604,Negative
+557828,-2.9790544755731156,Kosice International Airport,48.6631,21.2411,Negative
+556457,-13.682458842282513,Brno-Turany Airport,49.1513,16.6944,Negative
+548211,-29.038636583359327,Nis Constantine the Great Airport,43.3373,21.8537,Negative
+524977,-11.37592694537094,Kars Harakani Airport,40.5622,43.115,Negative
+524537,-18.994656239693292,Batman Airport,37.929,41.1166,Negative
+514110,-7.4931434906926535,Craiova International Airport,44.3181,23.8886,Negative
+506124,-15.467158245805376,Toulon-Hyeres Airport (Hyeres Le Palyvestre Airport),43.0973,6.14603,Negative
+498746,-15.764938465671904,Aarhus Airport,56.3,10.619,Negative
+494407,-12.186922919780667,Nevsehir Kapadokya Air,38.7719,34.5345,Negative
+491914,-25.32190586159369,Sivas Airport,39.8138,36.9035,Negative
+489556,-4.688125566840157,Ancona Falconara Airport,43.6163,13.3623,Negative
+487155,-7.166918126674261,Mytilene International Airport,39.0567,26.5983,Negative
+473790,-53.504928343781,Are Ostersund Airport,63.1944,14.5003,Negative
+471766,-71.69020234607835,Turku Airport,60.5141,22.2628,Negative
+468383,18.760928556331034,Bacau International Airport,46.5219,26.9103,Positive
+465321,-13.559241899677858,Tarbes-Lourdes-Pyrenees Airport,43.1787,-0.006439,Negative
+456790,7.302480352021718,Samos International Airport,37.69,26.9117,Positive
+447692,-7.419833278235929,Perpignan-Rivesaltes Airport,42.7404,2.87067,Negative
+447210,-34.072806958699495,Visby Airport,57.6628,18.3462,Negative
+446186,-29.355694710277774,Friedrichshafen Airport (Bodensee Airport),47.6713,9.51149,Negative
+445519,-18.912998098846515,Ostend-Bruges International Airport,51.1989,2.86222,Negative
+445423,-51.911104725171356,Linz Airport (Blue Danube Airport),48.2332,14.1875,Negative
+441405,-34.32901756889931,Maastricht Aachen Airport,50.9117,5.77014,Negative
+437965,-57.20525612777276,Clermont-Ferrand Auvergne Airport,45.7867,3.16917,Negative
+433959,-18.660288183906776,Molde Airport,62.7447,7.2625,Negative
+428078,3.783422647274562,Melilla Airport,35.2798,-2.95626,Positive
+425684,-40.53828661636331,Bydgoszcz Ignacy Jan Paderewski Airport,53.0968,17.9777,Negative
+418748,115.0016238883529,Vincenzo Florio Airport,37.9114,12.488,Positive
+418716,-28.577365087553382,Erzincan Airport,39.7102,39.527,Negative
+417377,27.302654434719692,Skiathos Island National Airport,39.1771,23.5037,Positive
+412181,-9.044085001492062,Kittila Airport,67.701,24.8468,Negative
+396623,-45.43937189724247,Federico Fellini International Airport,44.0203,12.6117,Negative
+389937,-22.942424032600137,Saarbrucken Airport,49.2146,7.10951,Negative
+388943,-50.50354422113266,Angelholm-Helsingborg Airport,56.2961,12.8471,Negative
+388545,1.3959772999266495,Dzaoudzi-Pamandzi International Airport,-12.8047,45.2811,Positive
+386671,-10.10005922347422,Mus Airport,38.7478,41.6612,Negative
+379830,-8.762604322986599,Alta Airport,69.9761,23.3717,Negative
+369836,-3.9998810283477,Kerry Airport (Farranfore Airport),52.1809,-9.52378,Negative
+366615,-44.497633757484,Reggio di Calabria Airport,38.0712,15.6516,Negative
+365865,-22.70427616743881,Sirnak Airport,37.3647,42.0582,Negative
+358025,3.0550939180224845,Comiso Airport,36.9946,14.6072,Positive
+356340,-7.549250715608688,Lublin Airport,51.2403,22.7136,Negative
+356010,-37.75764725709952,Balikesir Koca Seyit Airport,39.5546,27.0138,Negative
+351879,-20.666479102191378,Carcassonne Airport,43.216,2.30632,Negative
+345011,82.38346023749968,Zaragoza Airport,41.6662,-1.04155,Positive
+343448,-20.08018681139503,Palanga International Airport,55.9732,21.0939,Negative
+341281,2.2969341979190165,Kalamata International Airport,37.0683,22.0255,Positive
+340387,-2.6255409284138347,Reykjavík Airport,64.13,-21.9406,Negative
+337738,2.964428047776679,Calvi - Sainte-Catherine Airport,42.5244,8.79306,Positive
+336492,-12.289742401008048,Leos Janacek Airport,49.6963,18.1111,Negative
+321758,-30.951211780282073,Agri Airport,39.6545,43.026,Negative
+318386,-18.688635806850804,Kavala International Airport (Alexander the Great Airport),40.9133,24.6192,Negative
+317875,140.13149823043648,Suceava International Airport (Stefan cel Mare Int'l),47.6875,26.3541,Positive
+316566,-18.49029902137311,Kirkenes Airport,69.7258,29.8913,Negative
+308140,-35.88141753748296,Grenoble-Isere Airport,45.3629,5.32937,Negative
+306217,-62.720227812303044,Vaasa Airport,63.0507,21.7622,Negative
+304743,-1.0507214275635537,Caen - Carpiquet Airport,49.1733,-0.45,Negative
+301496,-36.46084856847189,Limoges - Bellegarde Airport,45.8628,1.17944,Negative
+289621,-23.577364901025824,Antwerp International Airport,51.1894,4.46028,Negative
+288098,-6.432186269949809,Skelleftea Airport,64.6248,21.0769,Negative
+283869,-22.324734296453645,Bergerac Dordogne Perigord Airport,44.8253,0.518611,Negative
+278747,-46.4561053571877,Vaxjo Smaland Airport,56.9291,14.728,Negative
+275811,18.139595592634087,Lampedusa Airport,35.4979,12.6181,Positive
+271796,-19.47232483185919,Kristiansund Airport,63.1118,7.82452,Negative
+270505,-58.39818117964548,Yenisehir Airport,40.2552,29.5626,Negative
+268744,-27.07483701961718,Kiruna Airport,67.822,20.3368,Negative
+268414,1.8940889819458,El Hierro Airport,27.8148,-17.8871,Positive
+267828,0.5518467075884522,Karpathos Island National Airport,35.4214,27.146,Positive
+266786,-34.106737235087294,Kahramanmaras Airport,37.5388,36.9535,Negative
+261983,-83.32487222453365,Metz-Nancy-Lorraine Airport,48.9821,6.25132,Negative
+261425,-18.471454528067323,Igdir Airport,39.9766,43.8766,Negative
+259163,-15.57784097266971,Beziers Cap d'Agde Airport,43.3235,3.3539,Negative
+259084,-16.16888731067916,Ivalo Airport,68.6073,27.4053,Negative
+246509,-26.929645570749955,Bardufoss Airport,69.0558,18.5404,Negative
+245193,-5.2012088436456185,Chios Island National Airport,38.3432,26.1406,Negative
+244989,-48.32992501704158,Kuopio Airport,63.0071,27.7978,Negative
+244988,-25.537985533985335,Adiyaman Airport,37.7314,38.4689,Negative
+242135,-25.274330435500858,Lodz Wladyslaw Reymont Airport,51.7219,19.3981,Negative
+237542,4.353335410159046,Alexandroupoli Airport (Dimokritos Airport),40.8559,25.9563,Positive
+232905,-53.26506515532083,Kalmar Airport,56.6855,16.2876,Negative
+232810,-79.11902409690306,Sundsvall-Timra Airport (Midlanda Airport),62.5281,17.4439,Negative
+232041,13.650604850004955,Horta Airport,38.5199,-28.7159,Positive
+231650,-21.923159939563995,La Rochelle - Ile de Re Airport,46.1792,-1.19528,Negative
+230603,-19.84969839941371,Nimes-Ales-Camargue-Cevennes Airport (Garons Airport),43.7574,4.41635,Negative
+228170,-15.21672437217864,Bornholm Airport,55.0633,14.7596,Negative
+226179,30.946285906295458,Paros National Airport,37.0205,25.1132,Positive
+223225,-24.31134505543734,Tampere-Pirkkala Airport,61.4141,23.6044,Negative
+218172,70.85602185431678,Perugia San Francesco d'Assisi - Umbria International Airport,43.0959,12.5132,Positive
+211153,-60.35386662751654,Klagenfurt Airport,46.6425,14.3377,Negative
+206731,-6.2312860674016,L'Esperance Airport (Grand Case Airport),18.0999,-63.0472,Negative
+205491,-50.606595909309895,Ronneby Airport,56.2667,15.265,Negative
+203527,-40.53368840497821,Chambery-Savoie Airport,45.6381,5.88023,Negative
+203313,-34.1512839808571,Bingol Airport,38.8593,40.596,Negative
+195407,-9.471001550609753,Tours Val de Loire Airport,47.4322,0.727606,Negative
+193693,-45.03673338737074,Groningen Airport Eelde,53.1197,6.57944,Negative
+185079,-8.15165415849448,Svalbard Airport,78.2461,15.4656,Negative
+182239,6.654448279457196,Akureyri Airport,65.66,-18.0727,Positive
+180506,-35.94506553798766,Hakkari Yuksekova Airport,37.5497,44.2381,Negative
+171506,1.0920900726505196,Crotone Airport (Sant'Anna Airport),38.9972,17.0802,Positive
+171094,10.86303435538359,Hammerfest Airport,70.6797,23.6686,Positive
+170272,-41.77316293929712,Araxos Airport,38.1511,21.4256,Negative
+170015,37.734317560215274,Vitoria Airport,42.8828,-2.72447,Positive
+167940,-44.48433964511135,Amasya Merzifon Airport,40.8294,35.522,Negative
+164895,33.37881682282664,Porto Santo Airport,33.0734,-16.35,Positive
+155291,-11.388940762825921,Erfurt-Weimar Airport,50.9798,10.9581,Negative
+150169,-51.780993414086794,Isparta Suleyman Demirel Airport,37.8554,30.3684,Negative
+146657,8.562155232958537,Liege Airport,50.6374,5.44322,Positive
+144585,-66.93294601791334,Linkoping City Airport,58.4062,15.6805,Negative
+141308,26.324058085883316,Pico Airport,38.5543,-28.4413,Positive
+137181,-48.79320022452089,Sinop Airport,42.0158,35.0664,Negative
+134292,-21.567926607690705,Leknes Airport,68.1525,13.6094,Negative
+133375,-30.681911902530455,Ioannina National Airport,39.6964,20.8225,Negative
+131668,16.07528025032658,Canakkale Airport,40.1377,26.4268,Positive
+127786,13.556258119042774,Vadso Airport,70.0653,29.8447,Positive
+127446,-84.7770820582835,Joensuu Airport,62.6629,29.6075,Negative
+126659,-53.77035978493435,Rostock-Laage Airport,53.9182,12.2783,Negative
+119928,15.712760989927292,Bronnoysund Airport,65.4611,12.2175,Positive
+118803,-11.976128548942366,Floro Airport,61.5836,5.02472,Negative
+118156,1.061308778225397,Kuusamo Airport,65.9876,29.2394,Positive
+113612,-69.01559694398479,Karup Airport,56.2975,9.12463,Negative
+111464,-4.294660159333955,Orsta-Volda Airport,62.18,6.0741,Negative
+110855,10.491182174913174,Lemnos International Airport,39.9171,25.2363,Positive
+110615,24.243547439316547,Stokmarknes Airport,68.5788,15.0334,Positive
+109755,20.30613639469728,Mo i Rana Airport,66.3639,14.3014,Positive
+107485,-76.438572824115,St. Gallen-Altenrhein Airport,47.485,9.56077,Negative
+104803,21.023253151150254,Sogndal Airport,61.1561,7.13778,Positive
+101227,11.264781135467809,Santa Maria Airport,36.9714,-25.1706,Positive
+100812,-14.76907511010594,Pardubice Airport,50.0134,15.7386,Negative
+91944,34.03919777255721,Naxos Island National Airport,37.0811,25.3681,Positive
+91751,-71.58178112500137,Kajaani Airport,64.2855,27.6924,Negative
+91417,-88.00223153242833,Jyvaskyla Airport,62.3995,25.6783,Negative
+89372,21.973324978740543,Anadolu Airport,39.8099,30.5194,Positive
+83083,-5.974748143422842,Esbjerg Airport,55.5259,8.5534,Negative
+82026,-30.233096822958572,Zafer Airport,39.1131,30.1281,Negative
+81921,2.194797426789224,Sandnessjoen Airport,65.9568,12.4689,Positive
+81833,-61.44709347084917,Kokkola-Pietarsaari Airport,63.7212,23.1431,Negative
+80931,8.392334210623865,Sao Jorge Airport,38.6655,-28.1758,Positive
+77627,10.16527754518402,Milos Island National Airport,36.6969,24.4769,Positive
+77383,-12.38902601346549,Orebro Airport,59.2237,15.038,Negative
+76599,-39.65978668128827,Tekirdag Corlu Airport,41.1382,27.9191,Negative
+76101,3.6359574775627124,Mosjoen Airport,65.784,13.2149,Positive
+73551,-35.76294000081576,Sonderborg Airport,54.9644,9.79173,Negative
+72765,-83.70920085205799,Jonkoping Airport,57.7576,14.0687,Negative
+69746,-64.26031600378516,Kemi-Tornio Airport,65.7787,24.5821,Negative
+63481,-30.207463650541104,Kastamonu Airport,41.3142,33.7958,Negative
+62408,-91.55076272272785,Karlovy Vary Airport,50.203,12.915,Negative
+57568,9.390633685380767,Graciosa Airport,39.0922,-28.0298,Positive
+57280,-96.91515363128491,Cengiz Topel Naval Air Station,40.735,30.0833,Negative
+56084,-98.95157264103844,Lugano Airport,46.0043,8.91058,Negative
+54179,-50.63216375348383,Mariehamn Airport,60.1222,19.8982,Negative
+51839,-13.146472732884506,Nea Anchialos National Airport,39.2196,22.7943,Negative
+48564,16.641957005189028,Ikaria Island National Airport,37.6827,26.3471,Positive
+47342,-52.86637657893625,Sitia Public Airport,35.2161,26.1013,Negative
+46352,92.72739040386607,Flores Airport,39.4553,-31.1314,Positive
+39584,-9.854991915925627,Kithira Island National Airport,36.2743,23.017,Negative
+34718,46.66167405956564,Siirt Airport,37.9789,41.8404,Positive
+28908,279.7218762972188,Zonguldak Airport,41.5064,32.0886,Positive
+23487,-20.42832205049602,Leros Municipal Airport,37.1849,26.8003,Negative
+22427,57.23904222588844,Bern Airport,46.9141,7.49715,Positive
+17451,7.415047848260844,Skyros Island National Airport,38.9676,24.4872,Positive
+15261,45.986501539872876,Astypalaia Island National Airport,36.5799,26.3758,Positive
+14594,-41.530766068247225,Saint-Nazaire Montoir Airport,47.3106,-2.15667,Negative
+14424,-19.308097615085966,Pori Airport,61.4617,21.8,Negative
+13467,-5.190465582535086,Cascais Municipal Aerodrome,38.725,-9.35523,Negative
+12811,25.298571540082744,Syros Island National Airport,37.4228,24.9509,Positive
+11127,-71.43884245528895,Brescia Airport (Gabriele D'Annunzio Airport),45.4289,10.3306,Negative
+10489,-69.82553150920012,Savonlinna Airport,61.9431,28.9451,Negative
+9442,-13.291675492480406,Viseu Airport,40.7255,-7.88899,Negative
+9210,51.672095548317046,Kalymnos Island National Airport,36.9633,26.9406,Positive
+9021,19.432435428444737,Corvo Airport,39.6715,-31.1136,Positive
+6910,119.24746743849492,Roskilde Airport,55.5856,12.1314,Positive
+6714,7.134346142389038,Portimao Airport,37.1493,-8.58396,Positive
+6097,3.1490897162538953,Kastellorizo Island Public Airport,36.1417,29.5764,Positive
+4196,-5.67206863679695,Braganca Airport,41.8578,-6.70713,Negative
+4137,-11.747643219724438,Kozani National Airport (Filippos Airport),40.2861,21.8408,Negative
+3875,-14.32258064516129,Kastoria National Airport (Aristotelis Airport),40.4463,21.2822,Negative
+2645,-64.234404536862,Beja Airport,38.0789,-7.9324,Negative
+2435,13.059548254620124,Kasos Island Public Airport,35.4214,26.91,Positive
+2381,75.5564888702226,Sion Airport,46.2196,7.32676,Positive
+334,95.80838323353294,Siauliai International Airport,55.8939,23.395,Positive
+19,15.789473684210526,Thisted Airport,57.0688,8.70522,Positive
